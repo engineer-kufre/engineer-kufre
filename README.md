@@ -3,13 +3,8 @@
 My name is Kufreabasi Ita and I am a .NET engineer. I have created solutions using C#, Javascript and Python programming languages. I am comfortable with utilizing established development tools and conventions such as the SOLID principles, test-driven development (TDD) and Domain Driven Design which are desired in today's highly sought-after software engineers. I also have a handle on using the MVC architectural pattern of web development to create scalable and extensible solutions.
 
 I have a strong background in object oriented development techniques and I'm proficient in manipulating tools including:
-* ASP.NET Core
-* HTML5
-* CSS3
-* SQL
-* Entity Framework Core
-* Identity
-* Git
+
+                        ASP.NET Core | HTML5 | CSS3 | SQL | Entity Framework Core | Identity | Git
 
 I possess experience enhancing existing systems by analyzing their existing capacity and identifying areas for modification and optimization. This gives me an indepth understanding of the Software Development Life Cycle and Agile development methodologies.
 
