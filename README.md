@@ -1,4 +1,4 @@
-# Welcome!!
+# Welcome!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Kufreabasi Ita and I am a .NET engineer. I have created solutions using C#, Javascript and Python programming languages. I am comfortable with utilizing established development tools and conventions such as the SOLID principles, test-driven development (TDD) and Domain Driven Design which are desired in today's highly sought-after software engineers. I also have a handle on using the MVC architectural pattern of web development to create scalable and extensible solutions.
 
@@ -13,6 +13,9 @@ I possess experience in enhancing existing systems by analyzing their existing c
 - 📫 I’m open to collaborating on projects which challenge me and expose me to new concepts and tools. Here's how to reach me: 
     * LinkedIn: https://www.linkedin.com/in/kufreabasiita/
     * Email: engineer_kufre@yahoo.com || ita.kufreabasi@gmail.com
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineer-kufre&layout=compact&theme=dark" />
+
 <!--
 **engineer-kufre/engineer-kufre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
