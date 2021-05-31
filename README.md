@@ -4,12 +4,12 @@ My name is Kufreabasi Ita and I am a .NET engineer. I have created solutions usi
 
 I have a strong background in object-oriented development techniques and I'm proficient in manipulating tools including:
 
-             ASP.NET Core | HTML5 | CSS3 | SQL | Entity Framework Core | Identity | Git | SignalR
+             ASP.NET Core | HTML5 | CSS3 | SQL | Entity Framework Core | Identity | Git | SignalR | Blazor
 
 I possess experience in enhancing existing systems by analyzing their existing capacity and identifying areas for modification and optimization. This gives me an in-depth understanding of the Software Development Life Cycle and Agile development methodologies.
 
-- 🔭 I currently specialize in building RESTful APIs.
-- 🌱 On my next stop in my continuous development trajectory, I'm learning to build world-class UIs for single-page applications using React.
+- 🔭 I build RESTful APIs.
+- 🌱 I build world-class UIs for web applications using Blazor.
 - 📫 I’m open to collaborating on projects which challenge me and expose me to new concepts and tools. Here's how to reach me: 
     * LinkedIn: https://www.linkedin.com/in/kufreabasiita/
     * Email: engineer_kufre@yahoo.com || ita.kufreabasi@gmail.com
